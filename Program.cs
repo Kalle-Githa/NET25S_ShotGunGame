@@ -12,6 +12,8 @@ Console.ReadLine();
 Console.ResetColor();
 Console.Clear();
 
+//
+
 // ========== Spelarens val om spel läge ==========
 
 Console.WriteLine(" Välj mellan dessa spellägen:\n");
