@@ -1,6 +1,6 @@
-================================================================================
+
 🎯 Shotgun konsolapplikation – Mitt första individuella uppgift (Jensen .NET25S)
-================================================================================
+
 
 
 📝 Instruktioner för denna uppgift:
