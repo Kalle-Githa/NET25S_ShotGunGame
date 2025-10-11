@@ -23,6 +23,7 @@ bld/
 [Ll]og/
 [Ll]ogs/
 .DS_Store
+!bin/Release/net9.0/win-x64/publish/**
 
 # .NET Core
 project.lock.json
