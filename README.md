@@ -1,12 +1,12 @@
 
-🎯 Shotgun konsolapplikation – Mitt första individuella uppgift (Jensen .NET25S)
+🎯 Shotgun konsolapplikation i **C#** – Mitt första individuella uppgift (Jensen .NET25S)
 
 
 
 📝 Instruktioner för denna uppgift:
 
 Uppgiften handlar om att skapa ett spel – Shotgun.
-Ni ska bygga ett program där användaren spelar Shotgun mot datorn.
+Ni ska bygga ett program där användaren spelar Shotgun mot datorn i .
 Datorspelaren väljer sitt drag slumpmässigt.
 
 Shotgun påminner en del om "sten, sax och påse", men låter spelaren välja mellan att "Skjuta", "Ladda" och "Blocka".
